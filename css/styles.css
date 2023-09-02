@@ -63,7 +63,12 @@ body {
 }
 
 
-
+ .image-container {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    width: 100%; /* Ajusta el tamaño del contenedor según tus necesidades */
+}
 
     .s {
       font-family: 'boston angel', cursive; /* Tipo de letra deseado */
